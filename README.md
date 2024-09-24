@@ -39,3 +39,8 @@ You can modify the theme settings in the `theme.txt` file to suit your preferenc
 * The theme is designed for Debian 12. Compatibility with other Linux distributions may vary.
 * Ensure that the required fonts (e.g., DejaVu Sans) are installed on your system.
 * For more advanced customizations, consider exploring GRUB's scripting capabilities.
+
+## Title font:
+
+I use POTRA font for my grub theme title.
+Porta website: https://pixelsurplus.com/products/potra-free-display-font
