@@ -11,7 +11,7 @@ desktop-image: "grub_back.png"
 + label {
   top = 100%-25
   left = 0
-  height: 20
+  height = 20
   text = "Theme dev by Alexandre ELISABETH"
   align = "center"
   font = "DejaVu Sans Regular 10"
