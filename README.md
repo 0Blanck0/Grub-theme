@@ -1,6 +1,8 @@
 # GRUB Theme for Debian 12
 
-**Purpose**: This README outlines the development and configuration of a custom GRUB theme for Debian 12. The theme was created primarily for research and learning purposes.
+The Grub-theme project is a custom theme for the GRUB bootloader, designed for Debian 12.   
+It modifies the appearance of the boot menu by changing colors, fonts, background images, and the style of the progress bar.   
+This project was mainly created for learning and experimentation.
 
 ## Theme Overview:
 
